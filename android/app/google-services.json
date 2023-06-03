@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "670718147340",
+    "project_id": "farmerapp-50615",
+    "storage_bucket": "farmerapp-50615.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:670718147340:android:c46caa27ab1aeeb439e729",
+        "android_client_info": {
+          "package_name": "com.agnext.farmerApp.farmer_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "670718147340-73gbid0f2549psq47hqhb6e601d7ol7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agnext.farmerApp.farmer_app",
+            "certificate_hash": "ab14fbbe4a861e9951596af5cf8fe2db7311a771"
+          }
+        },
+        {
+          "client_id": "670718147340-m9nidkt500tg81jvqemc3mpsjfiruk99.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.agnext.farmerApp.farmer_app",
+            "certificate_hash": "b358fd97c97db2347ec906dd5da1d9fb3f941a5f"
+          }
+        },
+        {
+          "client_id": "670718147340-9qqas7s24htaqgjncjvlturuuqr4ba94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJdsVCOYicIvNtlrmNIHnGodXzgscPbyI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "670718147340-9qqas7s24htaqgjncjvlturuuqr4ba94.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "670718147340-sofbqhts6dd17j3o5i42e9vupv40tpq0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.agnext.farmerApp.farmerApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
